@@ -3,7 +3,7 @@
 	"version": "11.0.9",
 	"dependencies": {
 		"async": "2.6.2",
-		"commander": "4.1.0",
+		"commander": "8.0.0",
 		"hjson": "3.2.1",
 		"html-entities": "1.2.1",
 		"mailparser": "2.7.7",
