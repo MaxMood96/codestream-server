@@ -46,9 +46,9 @@
 		"eslint"
 	],
 	"devDependencies": {
-		"eslint": "6.8.0",
+		"eslint": "7.16.0",
 		"lambda-local": "1.7.1",
-		"nodemon": "2.0.2",
+		"nodemon": "2.0.3",
 		"pre-commit": "1.2.2"
 	}
 }
