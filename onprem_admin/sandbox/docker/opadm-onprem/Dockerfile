@@ -1,5 +1,5 @@
 
-FROM node:12.14.1
+FROM node:12.22.0
 
 # This directory will be mounted from the host OS
 RUN mkdir /opt/config
