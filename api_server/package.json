@@ -36,7 +36,7 @@
     "markdown-it": "10.0.0",
     "markdown-it-emoji-mart": "0.1.1",
     "markdown-it-slack": "1.2.0",
-    "moment": "2.24.0",
+    "moment": "2.29.2",
     "moment-timezone": "0.5.27",
     "mongodb": "3.5.2",
     "msal": "1.2.1",
