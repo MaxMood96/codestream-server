@@ -2,7 +2,7 @@
 	"name": "inbound-email",
 	"version": "11.0.16",
 	"dependencies": {
-		"async": "2.6.2",
+		"async": "3.2.2",
 		"commander": "4.1.0",
 		"hjson": "3.2.1",
 		"html-entities": "1.2.1",
