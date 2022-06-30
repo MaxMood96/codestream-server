@@ -29,7 +29,7 @@
 		"immer": "8.0.1",
 		"jquery": "3.5.1",
 		"mongodb": "3.5.7",
-		"passport": "0.4.1",
+		"passport": "0.6.0",
 		"passport-local": "1.0.0",
 		"prop-types": "15.7.2",
 		"react": "16.13.1",
