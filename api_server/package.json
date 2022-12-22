@@ -31,7 +31,7 @@
     "handlebars": "4.7.7",
     "hjson": "3.2.1",
     "intercom-client": "2.11.0",
-    "jsonwebtoken": "8.5.1",
+    "jsonwebtoken": "9.0.0",
     "lodash": "4.17.21",
     "markdown-it": "10.0.0",
     "markdown-it-emoji-mart": "0.1.1",
