@@ -2,7 +2,7 @@
 	"name": "outbound-email",
 	"version": "11.0.19",
 	"dependencies": {
-		"amqplib": "0.5.5",
+		"amqplib": "0.7.1",
 		"deep-equal": "2.0.1",
 		"highlight.js": "10.4.1",
 		"hjson": "3.2.1",
