@@ -16,7 +16,7 @@
 		"newrelic": "8.1.0",
 		"node-fetch": "2.6.1",
 		"nodemailer": "6.4.16",
-		"pubnub": "4.30.1",
+		"pubnub": "7.4.0",
 		"sendgrid": "5.2.3",
 		"socketcluster-client": "16.0.1",
 		"strftime": "0.10.0",
