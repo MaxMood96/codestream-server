@@ -26,7 +26,7 @@
     "express-request-id": "1.4.1",
     "form-data": "3.0.0",
     "git-url-parse": "7.0.1",
-    "glob": "7.1.6",
+    "glob": "9.0.0",
     "glob-promise": "3.4.0",
     "handlebars": "4.7.7",
     "hjson": "3.2.1",
@@ -72,7 +72,7 @@
     "eslint"
   ],
   "devDependencies": {
-    "eslint": "6.8.0",
+    "eslint": "9.0.0",
     "mocha": "7.2.0",
     "mocha-teamcity-reporter": "3.0.0",
     "nodemon": "2.0.2",
