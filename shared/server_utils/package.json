@@ -37,7 +37,7 @@
 		"pubnub": "4.29.7",
 		"randomstring": "1.1.5",
 		"sendgrid": "5.2.3",
-		"socketcluster-client": "16.0.1",
+		"socketcluster-client": "17.1.0",
 		"strftime": "0.10.0",
 		"uuid": "3.4.0"
 	}
