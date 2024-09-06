@@ -8,7 +8,7 @@
     "deep-equal": "2.0.1",
     "express": "4.17.1",
     "hjson": "3.2.1",
-    "mongodb": "3.5.3",
+    "mongodb": "3.6.6",
     "node-ipc": "9.1.1",
     "socketcluster-server": "16.0.0",
     "strftime": "0.10.0",
@@ -23,7 +23,7 @@
     "eslint"
   ],
   "devDependencies": {
-    "eslint": "6.8.0",
+    "eslint": "8.46.0",
     "pre-commit": "1.2.2"
   }
 }
