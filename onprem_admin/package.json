@@ -23,7 +23,7 @@
 		"bootstrap": "4.5.2",
 		"connect-mongo": "3.2.0",
 		"ejs": "3.1.2",
-		"express": "4.17.1",
+		"express": "4.20.0",
 		"express-session": "1.17.1",
 		"hjson": "3.2.1",
 		"immer": "8.0.1",
