@@ -16,12 +16,12 @@
     "botbuilder": "4.12.0",
     "commander": "4.1.1",
     "compare-versions": "3.5.1",
-    "cookie-parser": "1.4.4",
+    "cookie-parser": "1.4.7",
     "cors": "2.8.5",
     "csurf": "1.11.0",
     "deep-equal": "2.0.1",
     "escape-html": "1.0.3",
-    "express": "4.17.1",
+    "express": "4.21.1",
     "express-http-proxy": "1.6.0",
     "express-request-id": "1.4.1",
     "form-data": "3.0.0",
@@ -72,7 +72,7 @@
     "eslint"
   ],
   "devDependencies": {
-    "eslint": "6.8.0",
+    "eslint": "9.0.0",
     "mocha": "7.2.0",
     "mocha-teamcity-reporter": "3.0.0",
     "nodemon": "2.0.2",
