@@ -24,7 +24,7 @@
 		"connect-mongo": "3.2.0",
 		"ejs": "3.1.2",
 		"express": "4.17.1",
-		"express-session": "1.17.1",
+		"express-session": "1.18.2",
 		"hjson": "3.2.1",
 		"immer": "8.0.1",
 		"jquery": "3.5.1",
